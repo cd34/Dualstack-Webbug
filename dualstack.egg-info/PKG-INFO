@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: dualstack
+Version: 0.0
+Summary: tube
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: 
+        
+        
+Keywords: web wsgi ipv4 ipv6
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application

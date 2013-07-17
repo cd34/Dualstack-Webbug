@@ -1,0 +1,9 @@
+README.txt
+setup.py
+dualstack.egg-info/PKG-INFO
+dualstack.egg-info/SOURCES.txt
+dualstack.egg-info/dependency_links.txt
+dualstack.egg-info/entry_points.txt
+dualstack.egg-info/not-zip-safe
+dualstack.egg-info/requires.txt
+dualstack.egg-info/top_level.txt
